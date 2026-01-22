@@ -52,12 +52,12 @@ Each view is **independent in responsibility**, yet **fully traceable** across t
 
 The repository is organised according to these architectural views:
 
-[01. Contextual - Business View](01-contextual-business-view/README.md)
-[02. Conceptual - Architect View](02-conceptual-architect-view/README/md)
-03-logical-designer-view  
-04-physical-builder-view  
-05-component-tradesman-view  
-06-management-manager-view 
+1. [Contextual - Business View](01-contextual-business-view/README.md)
+2. [02. Conceptual - Architect View](02-conceptual-architect-view/README/md)
+3. 03-logical-designer-view
+4. 04-physical-builder-view
+5. 05-component-tradesman-view
+6. 06-management-manager-view 
 
 Each directory contains the **authoritative architectural artifacts** for that view and serves as the single source of truth for related decisions.
 
