@@ -56,7 +56,7 @@ The repository is organised according to these architectural views:
 2. [Conceptual - Architect View](02-conceptual-architect-view/README.md)
 3. [Logical - Designer View](03-logical-designer-view/README.md)
 4. [Physical - Builder View](04-physical-builder-view/README.md)
-5. 05-component-tradesman-view
+5. [Component - Tradesman View](05-component-tradesman-view/README.md)
 6. 06-management-manager-view 
 
 Each directory contains the **authoritative architectural artifacts** for that view and serves as the single source of truth for related decisions.
