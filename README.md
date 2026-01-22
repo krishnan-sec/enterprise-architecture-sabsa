@@ -55,7 +55,7 @@ The repository is organised according to these architectural views:
 1. [Contextual - Business View](01-contextual-business-view/README.md)
 2. [Conceptual - Architect View](02-conceptual-architect-view/README.md)
 3. [Logical - Designer View](03-logical-designer-view/README.md)
-4. 04-physical-builder-view
+4. [Physical - Builder View](04-physical-builder-view/README.md)
 5. 05-component-tradesman-view
 6. 06-management-manager-view 
 
